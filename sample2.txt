@@ -1,3 +1,7 @@
 sample2 text 1
 sample2 text 2
+<<<<<<< .mine
 hhh
+=======
+text test2 folder
+>>>>>>> .theirs
